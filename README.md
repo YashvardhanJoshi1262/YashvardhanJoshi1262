@@ -1,46 +1,128 @@
-# 👋 Hi, I'm Yashvardhan Joshi
+# Hi, I'm Yashvardhan Joshi 👋
 
-## 📌 About Me
-🎓 Final Year BTech Student in Computer Science  
-🌱 Currently learning **Java**, exploring **ServiceNow**, and building basic web-based tools  
-🔍 Curious about how cloud platforms and automation tools improve real-world workflows  
-💼 Actively seeking entry-level opportunities to grow in **tech support**, **automation**, or **ServiceNow development**
+## ServiceNow Enthusiast | Final Year Computer Science Student | Future Workflow Automation Developer
 
-## 💻 Skills & Tools
-- **Languages:** Java, JavaScript, C++, HTML, CSS
-- **Web Tools:** Bootstrap, Tailwind CSS, REST APIs, Postman
-- **Platform Knowledge:** ServiceNow (Basic ITSM, Client Scripts, GlideRecord), JSON, Git & GitHub
-- **Others:** VS Code, Chrome DevTools
+I'm a final-year B.Tech Computer Science student focused on building a career in the ServiceNow ecosystem.
 
-## 📘 What I'm Learning
-- Core concepts of **Java** (OOPs, DSA, Exception Handling)
-- **ServiceNow Basics** – ITSM, Catalogs, Scripting, Flow Designer
-- Web development tools and API integrations  
-- Problem-solving and code organization through small projects
+My current focus is understanding how modern enterprises automate IT operations, employee services, workflows, and business processes using ServiceNow.
 
-## 🛠️ Projects
-- 📝 **Incident Form UI (HTML/JS)** – ServiceNow-style incident form using JavaScript validations  
-- 🛒 **Mini Expense Tracker** – Tracks user spending with basic JavaScript  
-- 🌐 **REST API Demo (Node + Postman)** – API integration practice with external data
+I enjoy learning by building projects, exploring platform architecture, and understanding the real business problems that enterprise software solves.
 
-> 📌 Check pinned repositories for documentation, screenshots, and source code.
+---
 
-## 📈 GitHub Stats
-![Yashvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashvardhanJoshi1262&show_icons=true&theme=tokyonight)
+## Current Focus
 
-## 💬 I’m Open To
-- Learning & collaborating on **automation ideas**, **web interfaces**, or **platform scripting**  
-- Internships or junior roles related to **ServiceNow**, **support tools**, or **IT platforms**
+- ServiceNow Administration Fundamentals
+- IT Service Management (ITSM)
+- Flow Designer & Workflow Automation
+- Client Scripts & Business Rules
+- GlideRecord & Server-Side Scripting
+- JavaScript for ServiceNow Development
+- Data Structures & Algorithms (C++)
+- Placement Preparation
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)  
-📧 Email: your.email@example.com
+---
 
-## ⚡ Fun Fact
-I love figuring out how digital tools can automate everyday work—and I enjoy learning by building!
+## Technical Skills
 
+### ServiceNow
+- Incident Management
+- Service Catalog
+- Flow Designer
+- Client Scripts
+- Business Rules
+- GlideRecord
+- Form Configuration
+- Table Structure
+- Basic ITSM Concepts
 
-<!---
-YashvardhanJoshi1262/YashvardhanJoshi1262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming
+- JavaScript
+- C++
+- HTML
+- CSS
+
+### Tools & Technologies
+- Git & GitHub
+- Postman
+- REST APIs
+- VS Code
+- Chrome DevTools
+
+---
+
+## Projects
+
+### Mini Incident Manager
+A ServiceNow-inspired web application for managing incidents.
+
+**Features**
+- Incident creation and tracking
+- Status management
+- Priority handling
+- Search and filtering
+- Local storage persistence
+- ServiceNow-style interface
+
+**Tech Stack**
+HTML, CSS, JavaScript
+
+---
+
+### IT Helpdesk Automation System (In Progress)
+A ServiceNow-inspired helpdesk platform designed to simulate core ITSM workflows.
+
+**Planned Features**
+- Incident Management
+- User Authentication
+- SLA Tracking
+- Ticket Assignment
+- Dashboard Reporting
+- Workflow Automation
+
+---
+
+### Bias and Toxicity Detection in GPT-2 Using Explainable AI
+Final-year major project focused on analyzing bias and toxicity in language model outputs.
+
+**Technologies**
+- GPT-2
+- SHAP
+- Detoxify
+- Google Colab
+- Python
+
+---
+
+## What I'm Learning Right Now
+
+- ServiceNow Platform Architecture
+- Enterprise Workflow Design
+- Automation Concepts
+- Flow Designer Development
+- ServiceNow Best Practices
+- DSA for Technical Interviews
+
+---
+
+## Career Goal
+
+To become a ServiceNow Developer capable of designing, automating, and improving enterprise workflows used by organizations worldwide.
+
+Long-term, I aim to build expertise in workflow automation, platform development, and enterprise digital transformation.
+
+---
+
+## Connect With Me
+
+### LinkedIn
+www.linkedin.com/in/YOUR-LINKEDIN
+
+### Email
+your-email@example.com
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashvardhanJoshi1262&show_icons=true)
