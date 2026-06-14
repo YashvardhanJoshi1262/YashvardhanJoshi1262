@@ -30,13 +30,6 @@ Currently, I'm strengthening my foundations in software development, Data Struct
 - HTML
 - CSS
 
-### Web Development
-- Responsive UI Design
-- REST APIs
-- JSON
-- Bootstrap
-- Tailwind CSS
-
 ### ServiceNow & Automation
 - ITSM Fundamentals
 - Incident Management
@@ -46,6 +39,13 @@ Currently, I'm strengthening my foundations in software development, Data Struct
 - GlideRecord
 - Workflow Automation Concepts
 
+### Web Development
+- Responsive UI Design
+- REST APIs
+- JSON
+- Bootstrap
+- Tailwind CSS
+
 ### Tools & Technologies
 - Git & GitHub
 - Postman
@@ -54,30 +54,35 @@ Currently, I'm strengthening my foundations in software development, Data Struct
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Featured Projects
 
-### 🚀 Mini Incident Manager
-A ServiceNow-inspired incident management application featuring ticket creation, priority handling, status tracking, search, filtering, and data persistence.
+### 🤖 AI Service Desk Platform
+An AI-powered service desk application designed to streamline support operations through intelligent ticket handling, automation, and workflow management.
 
-**Tech Stack:** HTML, CSS, JavaScript
-
-### 💰 Expense Tracker
-A web application for tracking expenses and managing personal spending records.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-### 🔗 REST API Integration Demo
-A project focused on consuming external APIs, handling responses, and practicing API testing workflows.
-
-**Tech Stack:** JavaScript, REST APIs, Postman
-
-### 🤖 Bias and Toxicity Detection in GPT-2
-Final-year research project focused on analyzing bias and toxicity in language model outputs using Explainable AI techniques.
-
-**Tech Stack:** Python, GPT-2, SHAP, Detoxify
+**Tech Stack:** TypeScript, Node.js, Express, AI Integration
 
 ---
 
+### 🛠️ IT Helpdesk
+A ServiceNow-inspired helpdesk platform for managing incidents and service requests, built to simulate real-world ITSM workflows and support processes.
+
+**Tech Stack:** JavaScript, Node.js, Express, MongoDB
+
+---
+
+### 💰 Mini Expense Tracker
+A full-stack expense management application featuring budget tracking, spending analytics, CSV export functionality, and cloud deployment.
+
+**Tech Stack:** React, Express.js, JavaScript
+
+---
+
+### 🚗 Smart Accident Detection App
+A mobile application focused on accident detection and emergency response assistance, aimed at improving road safety through technology.
+
+**Tech Stack:** Kotlin, Android
+
+---
 ## 📚 Currently Learning
 
 - Advanced C++
@@ -99,9 +104,9 @@ I am actively seeking opportunities where I can learn, contribute, and grow as a
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: www.linkedin.com/in/YOUR-LINKEDIN-ID
+🔗 LinkedIn: https://www.linkedin.com/in/yashvardhan-joshi-65888b282/
 
-📧 Email: your-email@example.com
+📧 Email: joshiyashvardhan01@gmail.com
 
 ---
 
