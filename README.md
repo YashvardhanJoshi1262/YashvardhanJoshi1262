@@ -1,128 +1,118 @@
 # Hi, I'm Yashvardhan Joshi 👋
 
-## ServiceNow Enthusiast | Final Year Computer Science Student | Future Workflow Automation Developer
+## Final Year Computer Science Student | Aspiring Software Engineer | ServiceNow & Workflow Automation Enthusiast
 
-I'm a final-year B.Tech Computer Science student focused on building a career in the ServiceNow ecosystem.
+🎓 Final Year B.Tech Computer Science Student
 
-My current focus is understanding how modern enterprises automate IT operations, employee services, workflows, and business processes using ServiceNow.
+I'm passionate about building software that solves real-world problems through automation, workflow optimization, and scalable systems.
 
-I enjoy learning by building projects, exploring platform architecture, and understanding the real business problems that enterprise software solves.
+Currently, I'm strengthening my foundations in software development, Data Structures & Algorithms, and enterprise platforms such as ServiceNow. I enjoy learning by building projects, understanding how systems work, and continuously improving my technical skills.
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
-- ServiceNow Administration Fundamentals
-- IT Service Management (ITSM)
-- Flow Designer & Workflow Automation
-- Client Scripts & Business Rules
-- GlideRecord & Server-Side Scripting
-- JavaScript for ServiceNow Development
 - Data Structures & Algorithms (C++)
+- Software Development Fundamentals
+- JavaScript & Web Technologies
+- ServiceNow Administration & ITSM
+- Workflow Automation
+- REST APIs & Integrations
 - Placement Preparation
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-### ServiceNow
+### Programming Languages
+- C++
+- JavaScript
+- HTML
+- CSS
+
+### Web Development
+- Responsive UI Design
+- REST APIs
+- JSON
+- Bootstrap
+- Tailwind CSS
+
+### ServiceNow & Automation
+- ITSM Fundamentals
 - Incident Management
 - Service Catalog
 - Flow Designer
 - Client Scripts
-- Business Rules
 - GlideRecord
-- Form Configuration
-- Table Structure
-- Basic ITSM Concepts
-
-### Programming
-- JavaScript
-- C++
-- HTML
-- CSS
+- Workflow Automation Concepts
 
 ### Tools & Technologies
 - Git & GitHub
 - Postman
-- REST APIs
 - VS Code
 - Chrome DevTools
 
 ---
 
-## Projects
+## 🛠️ Projects
 
-### Mini Incident Manager
-A ServiceNow-inspired web application for managing incidents.
+### 🚀 Mini Incident Manager
+A ServiceNow-inspired incident management application featuring ticket creation, priority handling, status tracking, search, filtering, and data persistence.
 
-**Features**
-- Incident creation and tracking
-- Status management
-- Priority handling
-- Search and filtering
-- Local storage persistence
-- ServiceNow-style interface
+**Tech Stack:** HTML, CSS, JavaScript
 
-**Tech Stack**
-HTML, CSS, JavaScript
+### 💰 Expense Tracker
+A web application for tracking expenses and managing personal spending records.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+### 🔗 REST API Integration Demo
+A project focused on consuming external APIs, handling responses, and practicing API testing workflows.
+
+**Tech Stack:** JavaScript, REST APIs, Postman
+
+### 🤖 Bias and Toxicity Detection in GPT-2
+Final-year research project focused on analyzing bias and toxicity in language model outputs using Explainable AI techniques.
+
+**Tech Stack:** Python, GPT-2, SHAP, Detoxify
 
 ---
 
-### IT Helpdesk Automation System (In Progress)
-A ServiceNow-inspired helpdesk platform designed to simulate core ITSM workflows.
+## 📚 Currently Learning
 
-**Planned Features**
-- Incident Management
-- User Authentication
-- SLA Tracking
-- Ticket Assignment
-- Dashboard Reporting
+- Advanced C++
+- Data Structures & Algorithms
+- ServiceNow Platform Fundamentals
 - Workflow Automation
+- Enterprise Software Systems
+- System Design Basics
 
 ---
 
-### Bias and Toxicity Detection in GPT-2 Using Explainable AI
-Final-year major project focused on analyzing bias and toxicity in language model outputs.
+## 🎯 Career Goal
 
-**Technologies**
-- GPT-2
-- SHAP
-- Detoxify
-- Google Colab
-- Python
+To build a strong foundation in software engineering while developing expertise in workflow automation and enterprise platforms.
+
+I am actively seeking opportunities where I can learn, contribute, and grow as a developer while solving meaningful business and technical problems.
 
 ---
 
-## What I'm Learning Right Now
+## 📫 Connect With Me
 
-- ServiceNow Platform Architecture
-- Enterprise Workflow Design
-- Automation Concepts
-- Flow Designer Development
-- ServiceNow Best Practices
-- DSA for Technical Interviews
+🔗 LinkedIn: www.linkedin.com/in/YOUR-LINKEDIN-ID
+
+📧 Email: your-email@example.com
 
 ---
 
-## Career Goal
+## 📊 GitHub Stats
 
-To become a ServiceNow Developer capable of designing, automating, and improving enterprise workflows used by organizations worldwide.
+![Yashvardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashvardhanJoshi1262&show_icons=true)
 
-Long-term, I aim to build expertise in workflow automation, platform development, and enterprise digital transformation.
-
----
-
-## Connect With Me
-
-### LinkedIn
-www.linkedin.com/in/YOUR-LINKEDIN
-
-### Email
-your-email@example.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJoshi1262&layout=compact)
 
 ---
 
-## GitHub Stats
+## ⚡ Fun Fact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashvardhanJoshi1262&show_icons=true)
+I enjoy understanding how software systems work behind the scenes and exploring ways to automate repetitive tasks through technology.
